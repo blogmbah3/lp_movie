@@ -18,13 +18,13 @@ $oc_config = array (
 
     "sitethemes"      => "g-stream",
 
-    "offer_link1"     => "https://www.facebook.com/galih.sophian.50",
+    "offer_link1"     => "https://google.com",
 
-    "offer_link2"     => "https://www.facebook.com/galih.sophian.50",
+    "offer_link2"     => "https://google.com",
 
     // "sport_offer"     => "",        // Jika Belum Di Include Plugin Sport nya gak bisa di gunakan
 
-    "histatsID"       => "3743291",
+    "histatsID"       => "4035196",
 
     //================================================================================================
 
